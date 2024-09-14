@@ -1,0 +1,31 @@
+3458764596129178263,"<p>Lack of understanding of the value of refactoring / keeping code clean leads to difficult to work on codebases</p>",459.0342670548376,127.20660392019875
+3458764596129178264,"<p>not knowing which parts will need to change; premature optimization in the wrong spots vs 6 week button change</p>",431.60908205934186,323.8573842392719
+3458764596129178265,"<p>Not understanding the experience/skill of others who will be working on the software you write (Assumption of knowledge) </p>",504.9857699270214,123.52878561682837
+3458764596129178267,"<p>Communication is hard because Business and Devs have _very_ different views of the problem to solve (&#34;keep customer&#34; vs &#34;spin up a K8 cluster&#34;).</p>",885.1632732942105,326.13807560411317
+3458764596129178275,"<p>coordination  vs autonomy. a collection Senior devs often feel like one-person armies, struggling to maximise all their skills</p>",329.8858427647968,126.29769376811907
+3458764596129178278,"<p>(Much) software development lacks predictability (aka the infamous &#34;when will it be done?&#34;), making it hard for the business to plan &#61;&gt; increasing pressure on devs.</p>",230.62649216040796,416.41783616409464
+3458764596129178279,"<p>Many devs (and business execs...) are far removed from the end-user.</p>",744.5991911432911,120.3531234228924
+3458764596129178280,"<p>We cannot be experts in all aspects of a business: need to find a common ground for communication?</p>",243.7788138128306,301.5649639199381
+3458764596129178287,"<p>Ability and space to safely compromise on solutions, agreement on the gray</p>",514.3415817033142,657.9062327227341
+3458764596129178288,"<p>Understanding what success looks like, how is the team evaluated</p>",365.8495712549198,410.6220383359911
+3458764596129178289,"<p>Being people first and employees second is not always the standard</p>",295.2645853553384,1188.0533467255332
+3458764596129178290,"<p>How do we build confidence in ourselves as developers in the face of uncertainty and how &#34;productivity&#34; is measured</p>",135.88769624864926,1131.7839134211874
+3458764596129178291,"<p>I want to measure my own productivity to help with impostor syndrome</p>",113.84600322828072,996.705329044363
+3458764596129178296,"<p>Different teams or people being judged on different (possibly conflicting) outcomes or metrics</p>",386.324466513647,489.3465768490886
+3458764596129178299,"<p>Safety to take risks</p>",571.4218460031759,573.5498209527093
+3458764596129178300,"<p>Meetings, training, planning can feel like &#34;wasted&#34; time because no lines of code written</p>",530.3102542813435,410.6220383359911
+3458764596129178301,"<p>It is difficult for (junior) devs to learn from their peers in a remote environment</p>",290.8164977176154,1005.5727152151164
+3458764596129178309,"<p>economics of build vs buy solutions, and ongoing maintenance/mgmt</p>",98.20093004064603,614.8278081465392
+3458764596129178310,"<p>Lack of understanding as to how important automation is across the SDLC so the work gets pushed out</p>",237.19487422615475,686.0002787187395
+3458764596129178311,"<p>what aspects of the solution could be &#34;good enough&#34; with proven industry standards vs custom designed</p>",396.2070373062124,545.6664393085854
+3458764596129178312,"<p>And the impossibility of predicting the future and how they might change</p>",550.6360744466979,614.7426760364397
+3458764596129178322,"<p>Failure is not always considered a positive; Fail fast and move to the next idea</p>",633.2573131909985,719.872226960927
+3458764598335128290,"<p>Product not understanding how long something takes and producing timelines on their own</p>",644.8346318219681,326.13807560411317
+3458764598335241097,"<p>for large projects / components: the common &#39;git&#39; framework (trunk and branch) seems to be straining to keep up with modern CI/CD and dev workflows.</p>",895.1744767024347,172.8756864431101
+3458764598335467300,"<p>engineering/design/analytics leaders and IC are often brought into strategic discussions about projects or products far too late in the process</p>",821.9124692560665,578.6522545510807
+3458764598335694453,"<p>measuring the impact of internal products/features/work can be difficult. Makes it tricky to then argue for continued investment, or to prioritise future work</p>",459.03426705483736,269.5770983111852
+3458764598335952299,"<p>not knowing which parts will need to change; premature optimization in the wrong spots vs 6 week button change</p>",127.60887819366127,165.4569320848217
+3458764598336097416,"<p>Communication is hard because Business and Devs have _very_ different views of the problem to solve (&#34;keep customer&#34; vs &#34;spin up a K8 cluster&#34;).</p>",110.33391455879865,319.557870926872
+3458764598336880558,"<p>economics of build vs buy solutions, and ongoing maintenance/mgmt</p>",328.0166530880911,189.72137525729795
+3458764598337078384,"<p>Product not understanding how long something takes and producing timelines on their own</p>",217.40603384678099,253.92905533681807
+3458764598337537774,"<p>I want to measure my own productivity to help with impostor syndrome</p>",312.33660218309393,93.3673284488716
